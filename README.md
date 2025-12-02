@@ -1,7 +1,6 @@
 # 🧠 Matrix Factorization from Scratch: Beating Library Baselines
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArgaAAL.Matrix-Factorization-From-Scratch)
-[![GitHub Stars](https://img.shields.io/github/stars/ArgaAAL/Matrix-Factorization-From-Scratch?style=social)](https://github.com/ArgaAAL/Matrix-Factorization-From-Scratch/stargazers)
 
 > **A comparative research project implementing Singular Value Decomposition (SVD) via Stochastic Gradient Descent (SGD) purely in NumPy. This manual implementation outperforms the industry-standard `scikit-surprise` library on the MovieLens 100K dataset.**
 
